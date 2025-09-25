@@ -1,0 +1,9 @@
+
+numpy
+pandas
+matplotlib
+scikit-learn
+seaborn
+
+#This will automatically install the package in editable mode 
+-e .
