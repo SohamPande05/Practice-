@@ -1,0 +1,1 @@
+'''Any functionality that is common in evey directory will be written here'''
